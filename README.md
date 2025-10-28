@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to code production apps.
 - 💼 I’m currently working at D. E. Shaw & Co. as a Technology Specialist.
 - 💞️ I’m looking to collaborate on on web app development projects & Jobs.
-- 📫 How to reach me send me a ping on hello@sbkashif.com
+- 📫 How to reach me send me a ping on kashif@sbkashif.com
 - 😄 Pronouns: He/Him
 - ⚡ I am open to work. Appreciate your help in finding a new job
 
